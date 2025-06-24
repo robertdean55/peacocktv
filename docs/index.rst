@@ -10,7 +10,7 @@ How to Login Peacock TV Account? 📺✨
   
 Peacock TV has become one of the most popular streaming platforms for those who love movies, shows, live sports, and even classic favorites. Whether you're a fan of comedy, drama, or reality TV, there's something for everyone. But before diving into your favorite episodes or live events, you’ll need to sign in to your **peacocktv login account**. This guide will help you understand how to log in smoothly and enjoy all that **Peacock TV streaming** has to offer. 🍿
 
-.. image:: start.png
+.. image:: login-now.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
